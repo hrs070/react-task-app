@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Live Demo](https://hrs070.github.io/react-task-app/)
 
-### run npm deploy to push the modified version to gh-pages
+### `run npm deploy` 
+to push the modified version to gh-pages
 
 ## Available Scripts
 
