@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Live Demo](https://hrs070.github.io/react-task-app/)
+
+### run npm deploy to push the modified version to gh-pages
+
 ## Available Scripts
 
 In the project directory, you can run:
